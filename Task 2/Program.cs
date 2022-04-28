@@ -18,3 +18,4 @@ else
 {
     Console.WriteLine("нет");
 }
+Console.ReadKey();
